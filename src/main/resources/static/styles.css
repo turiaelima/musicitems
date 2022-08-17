@@ -10,10 +10,10 @@ td {
 }
 
 tr:nth-child(even) {
-    background-color: #9e6d6d
+    background-color: #270cf3
 }
 
 th {
-    background-color: #0bf412;
+    background-color: #e2ece2;
     color: white;
 }
